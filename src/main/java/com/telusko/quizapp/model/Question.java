@@ -7,7 +7,7 @@ import jakarta.persistence.Id;
 import lombok.Data;
 
 @Data
-@Entity
+@Entity //entity chnage for fork
 public class Question {
 
     @Id
